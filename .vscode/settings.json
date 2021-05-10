@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f76a0e27-aa92-4eb2-9cab-3e6e4b461e47/resourceGroups/Resource/providers/Microsoft.Web/sites/Newsmag-app",
+    "appService.deploySubpath": "."
+}
